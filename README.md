@@ -91,6 +91,12 @@ We welcome contributions to this project. To contribute, please follow these ste
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify this project for your own purposes.\
 
 ## Screenshot
-<img src="https://github.com/IPH-Technologies-Pvt-Ltd/WhatappClone-Flutter/assets/124572978/492bc223-e29b-4652-865e-6359fb195437" 
-     width="400" 
-     height="750"/>
+
+
+https://github.com/IPH-Technologies-Pvt-Ltd/WhatappClone-Flutter/assets/126846798/9f153c55-90af-4347-97bd-d4eecad12b00
+
+https://github.com/IPH-Technologies-Pvt-Ltd/WhatappClone-Flutter/assets/126846798/68feac4f-4e37-4e0d-a05a-219e27824f92
+
+
+
+
